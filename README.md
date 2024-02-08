@@ -8,7 +8,7 @@ This Project realtime chat is made using laravel with Chatify and pusher
 
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JZO7Dfqtb6M?si=fC0oi_TpZ5bn0fmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[click here for video](https://www.youtube.com/watch?v=JZO7Dfqtb6M)
 
 ## Run Locally
 
